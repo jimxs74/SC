@@ -13,9 +13,11 @@ Display Tool
 
 Ide pengembangan : 
 - Membuat alur tampilan akhir yg lebih intuitif, sehingga persepsi tim sama untuk remaining work dan target
-- Dihubungkan dengan tabel spreadhset lain dari disiplin lain , motor solorun/logistik/precom/finding QC/Commissioning/operational finding dls yg masih trafragment
+- Dihubungkan dengan tabel spreadhset lain dari disiplin lain , motor solorun/logistik/precom/finding QC/Commissioning/operational/vendor serviceman/spare part/ finding dls yg masih trafragment
 - Pembuatan system dengan alur flow blok seperti dalam PID process
 - Mesin pengolah punchlist, untuk pembuatan cluster jenis punchlist dengan labelling material/engineering/tagname/operationa/dst
 - Memanfaatkan feature matplotlib/seaborn untuk visualisasi workfront dalam bentuk heatmap/scatterplot/barchart/dll
 - Membuat mesin penghitung sscore prioritas pekerjaan
 - silahkan ditambahkan
+- menambahkan feature web scrapping untuk ambil data dari CMS secara automatic
+- 
